@@ -1,0 +1,13 @@
+{
+  "private": false,
+  "name": "Git",
+  "description": "A Jolie Git wrapper",
+  "source": {
+    "module": "DanThrane/jolie-git"
+  },
+  "version": {
+    "patch": 0,
+    "major": 0,
+    "minor": 1
+  }
+}
